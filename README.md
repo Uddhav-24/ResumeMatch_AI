@@ -21,4 +21,6 @@ An AI-powered tool that instantly matches your resume to any job description and
 - **Backend**: Python, ChromaDB for vector storage
 - **Deployment**: Streamlit Community Cloud
 
-### 📸 Screenshot
+### 📸 Screenshots
+![ResumeMatch AI in action](resumematch_ai Screenshot_01.png)
+![ResumeMatch AI in action](resumematch_ai Screenshot_02.png)
