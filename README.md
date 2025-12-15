@@ -22,5 +22,3 @@ An AI-powered tool that instantly matches your resume to any job description and
 - **Deployment**: Streamlit Community Cloud
 
 ### 📸 Screenshots
-![ResumeMatch AI in action](resumematch_ai Screenshot_01.png)
-![ResumeMatch AI in action](resumematch_ai Screenshot_02.png)
